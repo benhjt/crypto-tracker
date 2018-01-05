@@ -2,7 +2,7 @@
   "name": "crypto-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://benhjt.github.io/crypto-currency",
+  "homepage": "https://benhjt.github.io/crypto-tracker",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
